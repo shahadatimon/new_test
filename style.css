@@ -1,0 +1,13 @@
+.s{
+    text-align: center;
+    background-image: url(./ff.jpg);
+    padding: 100px;
+    background-position: top center;
+    background-size: cover;
+    background-attachment:fixed;
+
+}
+.h{
+height: 800px;
+
+}
